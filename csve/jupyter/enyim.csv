@@ -1,0 +1,881 @@
+,gen,varsta,Destinatie_tara1,Cetatenie,mediu_prov,judet_domiciliu,Nivel educatie,Relatia cu recrutorul,Forma de exploatare,uj,uj2
+0,feminin,25,Spania,Romana,rural,Galati,studii gimnaziale,partener(a)/sot(ie),exploatare sexuala,42,0
+1,feminin,38,Spania,Romana,rural,Vrancea,,cunostinta/prieten(a),exploatare sexuala,42,1
+2,feminin,22,Danemarca,Romana,urban,Constanta,studii gimnaziale,,exploatare sexuala,42,2
+3,feminin,32,Italia,Romana,rural,Vaslui,,,exploatare sexuala,42,3
+4,masculin,25,Portugalia,Romana,urban,Ilfov,,cunostinta/prieten(a),exploatare prin munca,42,4
+5,masculin,34,Portugalia,Romana,rural,Ilfov,,cunostinta/prieten(a),exploatare prin munca,42,5
+6,feminin,56,Portugalia,Romana,rural,Ilfov,,cunostinta/prieten(a),exploatare prin munca,42,6
+7,feminin,48,Portugalia,Romana,rural,Ilfov,,cunostinta/prieten(a),exploatare prin munca,42,7
+8,feminin,45,Portugalia,Romana,rural,Ilfov,,cunostinta/prieten(a),exploatare prin munca,42,8
+9,feminin,37,Portugalia,Romana,rural,Ilfov,,cunostinta/prieten(a),exploatare prin munca,42,9
+10,feminin,28,Portugalia,Romana,urban,Bucuresti,,cunostinta/prieten(a),exploatare prin munca,42,10
+11,masculin,48,Portugalia,Romana,rural,Ilfov,,cunostinta/prieten(a),exploatare prin munca,42,11
+12,masculin,31,Irlanda,Romana,rural,Bihor,,cunostinta/prieten(a),obligarea la cersetorie,42,12
+13,feminin,14,Austria,Romana,rural,Arges,,partener(a)/sot(ie),obligarea la cersetorie,42,13
+14,masculin,22,UK,Romana,rural,Calarasi,,,obligarea la cersetorie,42,14
+15,feminin,19,UK,Romana,rural,Calarasi,,,obligarea la cersetorie,42,15
+16,feminin,16,Italia,Romana,rural,Galati,,cunostinta/prieten(a),exploatare sexuala,42,16
+17,feminin,17,Germania,Romana,,Calarasi,,necunoscut,exploatare sexuala,42,17
+18,feminin,19,Portugalia,Romana,urban,Olt,,,exploatare sexuala,42,18
+19,feminin,28,UK,Romana,urban,Bucuresti,,,exploatare sexuala,42,19
+20,feminin,17,Franta,Romana,urban,Timis,,,exploatare sexuala,42,20
+21,feminin,18,UK,Romana,rural,Buzau,,,exploatare sexuala,42,21
+22,feminin,19,Portugalia,Romana,urban,Olt,,,exploatare sexuala,42,22
+23,feminin,36,Spania,Romana,rural,Ialomita,,,exploatare prin munca,42,23
+24,masculin,39,Spania,Romana,rural,Ialomita,,,exploatare prin munca,42,24
+25,feminin,49,Spania,Romana,rural,Ialomita,,,exploatare prin munca,42,25
+26,masculin,47,Spania,Romana,rural,Ialomita,,,exploatare prin munca,42,26
+27,masculin,35,Spania,Romana,rural,Ialomita,,,exploatare prin munca,42,27
+28,masculin,41,Spania,Romana,rural,Ialomita,,,exploatare prin munca,42,28
+29,masculin,39,Spania,Romana,rural,Ialomita,,,exploatare prin munca,42,29
+30,masculin,41,Portugalia,Romana,urban,Galati,,,exploatare prin munca,42,30
+31,masculin,44,Danemarca,Romana,rural,Buzau,,,alte situatii de exploatare,42,31
+32,masculin,41,Danemarca,Romana,rural,Buzau,,,alte situatii de exploatare,42,32
+33,masculin,40,Danemarca,Romana,urban,Galati,,,alte situatii de exploatare,42,33
+34,masculin,49,Danemarca,Romana,rural,Vrancea,,,alte situatii de exploatare,42,34
+35,feminin,53,Danemarca,Romana,rural,Buzau,,,alte situatii de exploatare,42,35
+36,masculin,56,Danemarca,Romana,rural,Buzau,,,alte situatii de exploatare,42,36
+37,masculin,57,Danemarca,Romana,rural,Buzau,,,alte situatii de exploatare,42,37
+38,masculin,38,Danemarca,Romana,urban,Galati,,,alte situatii de exploatare,42,38
+39,masculin,38,Danemarca,Romana,rural,Buzau,,,alte situatii de exploatare,42,39
+40,masculin,39,Danemarca,Romana,rural,Buzau,,,alte situatii de exploatare,42,40
+41,feminin,24,Germania,Romana,urban,Constanta,,,alte situatii de exploatare,42,41
+42,feminin,20,Elvetia,Romana,urban,Galati,,,alte situatii de exploatare,42,42
+43,masculin,41,Spania,Romana,rural,Sibiu,studii profesionale,vecin,obligarea la cersetorie,42,43
+44,masculin,17,Spania,Romana,rural,Sibiu,studii primare,vecin,obligarea la cersetorie,42,44
+45,feminin,15,Austria,Romana,urban,Hunedoara,studii primare,necunoscut,obligarea la furturi,42,45
+46,feminin,23,Italia,Romana,rural,Bihor,studii primare,cunostinta/prieten(a),exploatare sexuala,42,46
+47,feminin,18,Italia,Romana,rural,Bihor,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,47
+48,feminin,22,Franta,Romana,urban,Bihor,studii primare,cunostinta/prieten(a),exploatare sexuala,42,48
+49,feminin,14,Romania,Romana,urban,Bihor,studii primare,vecin,exploatare sexuala,42,49
+50,feminin,19,Austria,Romana,rural,Bihor,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,50
+51,feminin,19,Austria,Romana,rural,Bihor,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,51
+52,feminin,18,Germania,Romana,urban,Bihor,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,52
+53,feminin,17,Austria,Romana,rural,Bihor,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,53
+54,feminin,23,Romania,Romana,rural,Bihor,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,54
+55,feminin,15,Romania,Romana,rural,Bihor,studii primare,cunostinta/prieten(a),exploatare sexuala,42,55
+56,feminin,14,Romania,Romana,urban,Bihor,studii primare,cunostinta/prieten(a),exploatare sexuala,42,56
+57,feminin,17,Franta,Romana,rural,Bihor,studii liceale,rude,exploatare sexuala,42,57
+58,feminin,26,UK,Romana,urban,Bihor,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,58
+59,masculin,19,Suedia,Romana,rural,Bihor,studii liceale,necunoscut,obligarea la cersetorie,42,59
+60,feminin,7,Franta,Romana,rural,Bihor,studii primare,rude,obligarea la cersetorie,42,60
+61,feminin,25,Olanda,Romana,rural,Bihor,studii profesionale,cunostinta/prieten(a),tentativa,42,61
+62,feminin,18,Elvetia,Romana,urban,Bihor,studii primare,cunostinta/prieten(a),tentativa,42,62
+63,feminin,28,Romania,Romana,urban,Bihor,studii gimnaziale,necunoscut,exploatare sexuala,42,63
+64,feminin,31,UK,Romana,urban,Bihor,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,64
+65,feminin,17,Franta,Romana,rural,Dolj,studii gimnaziale,partener(a)/sot(ie),exploatare sexuala,42,65
+66,masculin,28,Grecia,Romana,rural,Gorj,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,66
+67,feminin,27,Italia,Romana,urban,Dolj,studii liceale,rude,obligarea la cersetorie,42,67
+68,feminin,21,Italia,Romana,rural,Bacau,studii gimnaziale,vecin,exploatare sexuala,42,68
+69,feminin,24,Finlanda,Romana,urban,Bacau,6,cunostinta/prieten(a),exploatare sexuala,42,69
+70,feminin,28,Germania,Romana,urban,Bucuresti,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,70
+71,feminin,20,Germania,Romana,rural,Timis,studii liceale,necunoscut,exploatare sexuala,42,71
+72,feminin,18,Germania,Romana,urban,Timis,studii liceale,necunoscut,exploatare sexuala,42,72
+73,feminin,18,Romania,Romana,rural,Bacau,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,73
+74,feminin,15,Romania,Romana,rural,Bacau,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,74
+75,feminin,17,Romania,Romana,rural,Bacau,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,75
+76,feminin,19,Romania,Romana,urban,Bacau,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,76
+77,feminin,17,Romania,Romana,rural,Bacau,studii gimnaziale,partener(a)/sot(ie),exploatare sexuala,42,77
+78,feminin,25,Irlanda,Romana,rural,Bistria-Nasaud,studii liceale,necunoscut,exploatare sexuala,42,78
+79,feminin,18,Irlanda,Romana,rural,Neamt,studii liceale,necunoscut,exploatare sexuala,42,79
+80,feminin,16,Irlanda,Romana,rural,Vaslui,studii liceale,necunoscut,exploatare sexuala,42,80
+81,masculin,18,Grecia,Romana,rural,Bacau,studii liceale,necunoscut,exploatare prin munca,42,81
+82,masculin,25,Irlanda,Romana,rural,Neamt,studii liceale,necunoscut,exploatare prin munca,42,82
+83,masculin,22,Irlanda,Romana,rural,Neamt,studii gimnaziale,necunoscut,exploatare prin munca,42,83
+84,masculin,30,Irlanda,Romana,rural,Neamt,studii gimnaziale,necunoscut,exploatare prin munca,42,84
+85,masculin,31,Irlanda,Romana,rural,Neamt,studii profesionale,necunoscut,exploatare prin munca,42,85
+86,masculin,26,Irlanda,Romana,rural,Neamt,studii gimnaziale,necunoscut,exploatare prin munca,42,86
+87,masculin,20,Suedia,Romana,rural,Bacau,studii gimnaziale,rude,obligarea la cersetorie,42,87
+88,feminin,20,Italia,Romana,urban,Bacau,studii liceale,cunostinta/prieten(a),tentativa,42,88
+89,feminin,17,Romania,Romana,rural,Bacau,studii gimnaziale,cunostinta/prieten(a),tentativa,42,89
+90,feminin,17,Romania,Romana,rural,Bacau,studii gimnaziale,cunostinta/prieten(a),tentativa,42,90
+91,feminin,17,Romania,Romana,urban,Bacau,studii gimnaziale,cunostinta/prieten(a),tentativa,42,91
+92,feminin,19,Italia,Romana,rural,Bacau,studii gimnaziale,necunoscut,tentativa,42,92
+93,feminin,16,Romania,Romana,rural,Bacau,studii gimnaziale,necunoscut,exploatare sexuala,42,93
+94,feminin,16,Romania,Romana,rural,Bacau,studii gimnaziale,necunoscut,exploatare sexuala,42,94
+95,feminin,17,Romania,Romana,rural,Bacau,studii gimnaziale,necunoscut,exploatare sexuala,42,95
+96,feminin,15,Romania,Romana,rural,Bacau,studii gimnaziale,necunoscut,exploatare sexuala,42,96
+97,masculin,53,Danemarca,Romana,rural,Neamt,studii liceale,cunostinta/prieten(a),alte situatii de exploatare,42,97
+98,feminin,23,Italia,Romana,urban,Vaslui,studii liceale,rude,exploatare sexuala,42,98
+99,feminin,17,Romania,Romana,rural,Iasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,99
+100,feminin,17,Romania,Romana,rural,Iasi,studii gimnaziale,necunoscut,exploatare sexuala,42,100
+101,feminin,20,Grecia,Romana,rural,Iasi,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,101
+102,feminin,20,Germania,Romana,rural,Iasi,studii gimnaziale,vecin,exploatare sexuala,42,102
+103,feminin,18,Germania,Romana,urban,Iasi,studii primare,partener(a)/sot(ie),exploatare sexuala,42,103
+104,feminin,15,Romania,Romana,urban,Iasi,studii gimnaziale,necunoscut,exploatare sexuala,42,104
+105,feminin,17,Romania,Romana,urban,Iasi,studii gimnaziale,proxenet,exploatare sexuala,42,105
+106,feminin,14,Romania,Romana,urban,Iasi,studii gimnaziale,proxenet,exploatare sexuala,42,106
+107,feminin,14,Romania,Romana,urban,Iasi,studii primare,proxenet,exploatare sexuala,42,107
+108,feminin,14,Romania,Romana,urban,Iasi,studii primare,necunoscut,exploatare sexuala,42,108
+109,feminin,16,Romania,Romana,urban,Iasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,109
+110,feminin,15,Romania,Romana,rural,Iasi,studii gimnaziale,proxenet,exploatare sexuala,42,110
+111,feminin,14,Romania,Romana,rural,Dambovita,studii primare,cunostinta/prieten(a),exploatare sexuala,42,111
+112,feminin,31,Grecia,Romana,urban,Iasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,112
+113,feminin,16,Romania,Romana,rural,Iasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,113
+114,feminin,13,Romania,Romana,urban,Iasi,studii primare,cunostinta/prieten(a),exploatare sexuala,42,114
+115,feminin,14,Romania,Romana,urban,Iasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,115
+116,feminin,15,Romania,Romana,rural,Iasi,studii primare,cunostinta/prieten(a),exploatare sexuala,42,116
+117,feminin,15,Romania,Romana,rural,Iasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,117
+118,feminin,15,Romania,Romana,rural,Iasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,118
+119,feminin,15,Romania,Romana,rural,Iasi,studii primare,cunostinta/prieten(a),exploatare sexuala,42,119
+120,feminin,15,Romania,Romana,rural,Iasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,120
+121,feminin,15,Romania,Romana,rural,Iasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,121
+122,feminin,13,Romania,Romana,rural,Iasi,studii primare,vecin,exploatare sexuala,42,122
+123,feminin,15,Romania,Romana,rural,Iasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,123
+124,feminin,15,Romania,Romana,rural,Iasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,124
+125,feminin,26,Italia,Romana,urban,Iasi,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,125
+126,feminin,16,Romania,Romana,rural,Iasi,studii gimnaziale,partener(a)/sot(ie),exploatare sexuala,42,126
+127,feminin,15,Romania,Romana,rural,Iasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,127
+128,masculin,54,Germania,Romana,urban,Botosani,studii gimnaziale,necunoscut,exploatare prin munca,42,128
+129,feminin,16,Romania,Romana,rural,Iasi,studii gimnaziale,partener(a)/sot(ie),tentativa,42,129
+130,masculin,22,Cehia,Romana,rural,Iasi,studii liceale,vecin,exploatare prin munca,42,130
+131,masculin,42,Cehia,Romana,rural,Iasi,studii liceale,vecin,exploatare prin munca,42,131
+132,masculin,42,Cehia,Romana,rural,Iasi,studii profesionale,necunoscut,exploatare prin munca,42,132
+133,masculin,47,Danemarca,Romana,urban,Botosani,studii profesionale,cunostinta/prieten(a),alte situatii de exploatare,42,133
+134,masculin,47,Danemarca,Romana,rural,Botosani,studii profesionale,cunostinta/prieten(a),alte situatii de exploatare,42,134
+135,masculin,35,Danemarca,Romana,urban,Botosani,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,135
+136,masculin,36,Danemarca,Romana,urban,Botosani,studii profesionale,cunostinta/prieten(a),alte situatii de exploatare,42,136
+137,masculin,47,Danemarca,Romana,urban,Botosani,studii profesionale,cunostinta/prieten(a),alte situatii de exploatare,42,137
+138,masculin,45,Danemarca,Romana,urban,Botosani,studii liceale,cunostinta/prieten(a),alte situatii de exploatare,42,138
+139,masculin,40,Danemarca,Romana,urban,Botosani,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,139
+140,masculin,45,Danemarca,Romana,rural,Botosani,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,140
+141,masculin,42,Danemarca,Romana,rural,Botosani,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,141
+142,masculin,32,Danemarca,Romana,urban,Botosani,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,142
+143,masculin,37,Danemarca,Romana,urban,Botosani,studii profesionale,cunostinta/prieten(a),alte situatii de exploatare,42,143
+144,masculin,31,Italia,Romana,urban,Bucuresti,,necunoscut,exploatare prin munca,42,144
+145,masculin,37,Danemarca,Romana,rural,Ilfov,studii liceale,necunoscut,alte situatii de exploatare,42,145
+146,masculin,43,Danemarca,Romana,rural,Ilfov,studii gimnaziale,necunoscut,alte situatii de exploatare,42,146
+147,masculin,41,Danemarca,Romana,urban,Bucuresti,studii gimnaziale,necunoscut,alte situatii de exploatare,42,147
+148,masculin,42,Danemarca,Romana,rural,Ilfov,studii profesionale,necunoscut,alte situatii de exploatare,42,148
+149,masculin,42,Danemarca,Romana,urban,Bucuresti,studii profesionale,necunoscut,alte situatii de exploatare,42,149
+150,masculin,44,Danemarca,Romana,rural,Ialomita,studii liceale,necunoscut,alte situatii de exploatare,42,150
+151,masculin,37,Danemarca,Romana,rural,Ilfov,studii gimnaziale,necunoscut,alte situatii de exploatare,42,151
+152,masculin,42,Danemarca,Romana,urban,Ilfov,studii profesionale,necunoscut,alte situatii de exploatare,42,152
+153,masculin,29,Danemarca,Romana,urban,Bucuresti,studii liceale,necunoscut,alte situatii de exploatare,42,153
+154,masculin,46,Danemarca,Romana,rural,Ilfov,studii profesionale,necunoscut,alte situatii de exploatare,42,154
+155,masculin,35,Danemarca,Romana,rural,Ilfov,studii primare,necunoscut,alte situatii de exploatare,42,155
+156,masculin,31,Danemarca,Romana,rural,Ilfov,studii gimnaziale,necunoscut,alte situatii de exploatare,42,156
+157,feminin,26,UK,Romana,rural,Buzau,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,157
+158,feminin,17,UK,Romana,rural,Buzau,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,158
+159,feminin,30,Norvegia,Romana,rural,Buzau,studii primare,necunoscut,exploatare sexuala,42,159
+160,feminin,15,Romania,Romana,rural,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,160
+161,feminin,20,Spania,Romana,urban,Dambovita,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,161
+162,feminin,17,Romania,Romana,urban,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,162
+163,feminin,14,Romania,Romana,rural,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,163
+164,feminin,17,Romania,Romana,rural,Dambovita,studii gimnaziale,necunoscut,exploatare sexuala,42,164
+165,feminin,16,UK,Romana,urban,Prahova,studii primare,cunostinta/prieten(a),exploatare sexuala,42,165
+166,feminin,15,Romania,Romana,rural,Prahova,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,166
+167,feminin,14,Romania,Romana,urban,Prahova,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,167
+168,feminin,17,Romania,Romana,rural,Prahova,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,168
+169,feminin,17,Romania,Romana,rural,Prahova,studii gimnaziale,necunoscut,exploatare sexuala,42,169
+170,feminin,18,Romania,Romana,urban,Prahova,studii liceale,rude,exploatare sexuala,42,170
+171,feminin,17,Irlanda,Romana,rural,Prahova,,,exploatare sexuala,42,171
+172,feminin,17,Romania,Romana,rural,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,172
+173,feminin,16,Romania,Romana,rural,Ilfov,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,173
+174,feminin,19,UK,Romana,rural,Dambovita,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,174
+175,feminin,15,Spania,Romana,rural,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,175
+176,feminin,15,Romania,Romana,rural,Dambovita,studii gimnaziale,proxenet,exploatare sexuala,42,176
+177,feminin,16,Romania,Romana,rural,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,177
+178,masculin,20,Spania,Romana,rural,Prahova,studii gimnaziale,necunoscut,exploatare prin munca,42,178
+179,masculin,40,Spania,Romana,rural,Prahova,studii primare,necunoscut,exploatare prin munca,42,179
+180,masculin,26,Spania,Romana,rural,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,180
+181,masculin,19,Spania,Romana,rural,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,181
+182,masculin,24,Suedia,Romana,urban,Buzau,fara studii,cunostinta/prieten(a),obligarea la cersetorie,42,182
+183,feminin,33,Suedia,Romana,urban,Buzau,studii primare,vecin,obligarea la cersetorie,42,183
+184,masculin,18,UK,Romana,urban,Prahova,studii gimnaziale,cunostinta/prieten(a),obligarea la furturi,42,184
+185,masculin,32,Spania,Romana,rural,Prahova,studii primare,necunoscut,tentativa,42,185
+186,masculin,23,Spania,Romana,rural,Prahova,studii gimnaziale,necunoscut,tentativa,42,186
+187,masculin,32,Spania,Romana,rural,Prahova,studii gimnaziale,necunoscut,tentativa,42,187
+188,masculin,44,Spania,Romana,rural,Prahova,studii liceale,necunoscut,tentativa,42,188
+189,masculin,53,Spania,Romana,rural,Prahova,studii gimnaziale,necunoscut,tentativa,42,189
+190,masculin,32,Spania,Romana,rural,Prahova,studii gimnaziale,necunoscut,tentativa,42,190
+191,masculin,41,Spania,Romana,rural,Prahova,studii gimnaziale,necunoscut,tentativa,42,191
+192,masculin,20,Spania,Romana,rural,Prahova,studii liceale,necunoscut,tentativa,42,192
+193,masculin,33,Spania,Romana,rural,Prahova,studii primare,necunoscut,tentativa,42,193
+194,feminin,16,Belgia,Romana,rural,Prahova,studii gimnaziale,cunostinta/prieten(a),tentativa,42,194
+195,masculin,45,Spania,Romana,rural,Prahova,studii gimnaziale,necunoscut,tentativa,42,195
+196,masculin,44,Spania,Romana,rural,Prahova,studii liceale,necunoscut,tentativa,42,196
+197,masculin,20,Spania,Romana,rural,Prahova,studii gimnaziale,necunoscut,tentativa,42,197
+198,feminin,16,Romania,Romana,rural,Dambovita,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,198
+199,feminin,18,Spania,Romana,urban,Constanta,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,199
+200,feminin,26,UK,Romana,urban,Bihor,studii gimnaziale,necunoscut,exploatare sexuala,42,200
+201,feminin,20,UK,Romana,rural,Constanta,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,201
+202,feminin,18,UK,Romana,rural,Constanta,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,202
+203,feminin,28,Olanda,Romana,rural,Constanta,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,203
+204,masculin,21,Spania,Romana,urban,Constanta,studii gimnaziale,cunostinta/prieten(a),tentativa,42,204
+205,masculin,50,Spania,Romana,urban,Constanta,studii primare,cunostinta/prieten(a),tentativa,42,205
+206,masculin,39,Spania,Romana,urban,Constanta,,cunostinta/prieten(a),tentativa,42,206
+207,masculin,38,Spania,Romana,urban,Constanta,studii gimnaziale,cunostinta/prieten(a),tentativa,42,207
+208,masculin,24,Spania,Romana,urban,Constanta,studii gimnaziale,cunostinta/prieten(a),tentativa,42,208
+209,masculin,26,Spania,Romana,urban,Constanta,studii gimnaziale,cunostinta/prieten(a),tentativa,42,209
+210,masculin,22,Spania,Romana,urban,Constanta,studii gimnaziale,cunostinta/prieten(a),tentativa,42,210
+211,masculin,27,Spania,Romana,urban,Constanta,studii gimnaziale,cunostinta/prieten(a),tentativa,42,211
+212,masculin,33,Spania,Romana,urban,Constanta,studii gimnaziale,cunostinta/prieten(a),tentativa,42,212
+213,masculin,22,Spania,Romana,urban,Constanta,studii primare,cunostinta/prieten(a),tentativa,42,213
+214,masculin,22,Spania,Romana,urban,Constanta,studii gimnaziale,cunostinta/prieten(a),tentativa,42,214
+215,feminin,27,Spania,Romana,urban,Constanta,studii primare,cunostinta/prieten(a),tentativa,42,215
+216,masculin,44,Spania,Romana,urban,Constanta,studii primare,cunostinta/prieten(a),tentativa,42,216
+217,masculin,22,Spania,Romana,urban,Constanta,studii primare,cunostinta/prieten(a),tentativa,42,217
+218,feminin,39,Spania,Romana,urban,Constanta,studii primare,cunostinta/prieten(a),tentativa,42,218
+219,masculin,42,Spania,Romana,urban,Constanta,studii primare,cunostinta/prieten(a),tentativa,42,219
+220,feminin,49,Spania,Romana,urban,Constanta,studii primare,cunostinta/prieten(a),tentativa,42,220
+221,masculin,45,Spania,Romana,urban,Constanta,studii primare,cunostinta/prieten(a),tentativa,42,221
+222,masculin,32,Spania,Romana,urban,Constanta,studii primare,cunostinta/prieten(a),tentativa,42,222
+223,masculin,20,Spania,Romana,urban,Constanta,studii gimnaziale,cunostinta/prieten(a),tentativa,42,223
+224,masculin,24,Spania,Romana,urban,Constanta,studii gimnaziale,cunostinta/prieten(a),tentativa,42,224
+225,masculin,27,Spania,Romana,urban,Constanta,studii primare,cunostinta/prieten(a),tentativa,42,225
+226,masculin,32,UK,Romana,urban,Cluj,fara studii,cunostinta/prieten(a),obligarea la furturi,42,226
+227,masculin,45,UK,Romana,rural,Cluj,fara studii,cunostinta/prieten(a),obligarea la furturi,42,227
+228,masculin,33,UK,Romana,rural,Cluj,fara studii,cunostinta/prieten(a),obligarea la furturi,42,228
+229,masculin,39,UK,Romana,rural,Cluj,fara studii,cunostinta/prieten(a),obligarea la furturi,42,229
+230,masculin,37,UK,Romana,rural,Cluj,studii liceale,cunostinta/prieten(a),obligarea la furturi,42,230
+231,masculin,46,UK,Romana,urban,Cluj,studii gimnaziale,cunostinta/prieten(a),obligarea la furturi,42,231
+232,masculin,29,Irlanda,Romana,urban,Cluj,studii primare,cunostinta/prieten(a),exploatare prin munca,42,232
+233,feminin,14,Romania,Romana,urban,Covasna,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,233
+234,feminin,13,Romania,Romana,rural,Brasov,fara studii,cunostinta/prieten(a),exploatare sexuala,42,234
+235,feminin,14,Romania,Romana,urban,Covasna,studii primare,cunostinta/prieten(a),exploatare sexuala,42,235
+236,feminin,15,Romania,Romana,urban,Covasna,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,236
+237,feminin,15,Romania,Romana,rural,Covasna,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,237
+238,masculin,21,Romania,Romana,urban,Covasna,studii primare,rude,obligarea la cersetorie,42,238
+239,feminin,16,Romania,Romana,urban,Covasna,studii gimnaziale,cunostinta/prieten(a),tentativa,42,239
+240,feminin,14,Romania,Romana,urban,Covasna,studii gimnaziale,cunostinta/prieten(a),tentativa,42,240
+241,feminin,17,Italia,Romana,rural,Mures,studii gimnaziale,vecin,exploatare sexuala,42,241
+242,feminin,19,Germania,Romana,urban,Mures,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,242
+243,feminin,12,Romania,Romana,rural,Harghita,studii primare,necunoscut,exploatare sexuala,42,243
+244,feminin,14,Romania,Romana,rural,Harghita,studii primare,necunoscut,exploatare sexuala,42,244
+245,masculin,15,Romania,Romana,rural,Mures,studii gimnaziale,necunoscut,exploatare sexuala,42,245
+246,masculin,18,Cehia,Romana,rural,Mures,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,246
+247,masculin,33,Romania,Romana,urban,Mures,studii gimnaziale,necunoscut,exploatare prin munca,42,247
+248,masculin,22,Romania,Romana,urban,Mures,studii primare,necunoscut,exploatare prin munca,42,248
+249,feminin,14,Romania,Romana,urban,Mures,studii primare,necunoscut,exploatare prin munca,42,249
+250,feminin,33,Romania,Romana,urban,Mures,studii gimnaziale,necunoscut,exploatare prin munca,42,250
+251,masculin,31,Romania,Romana,urban,Mures,studii gimnaziale,necunoscut,exploatare prin munca,42,251
+252,masculin,18,Romania,Romana,urban,Mures,studii gimnaziale,necunoscut,exploatare prin munca,42,252
+253,masculin,22,Romania,Romana,urban,Mures,studii gimnaziale,necunoscut,exploatare prin munca,42,253
+254,feminin,16,Romania,Romana,urban,Mures,studii primare,necunoscut,exploatare prin munca,42,254
+255,feminin,15,Romania,Romana,urban,Mures,studii primare,necunoscut,exploatare prin munca,42,255
+256,masculin,47,Romania,Romana,urban,Mures,studii primare,necunoscut,exploatare prin munca,42,256
+257,masculin,39,Romania,Romana,urban,Mures,studii gimnaziale,necunoscut,exploatare prin munca,42,257
+258,masculin,18,Romania,Romana,urban,Mures,studii gimnaziale,necunoscut,exploatare prin munca,42,258
+259,masculin,19,Romania,Romana,rural,Mures,studii liceale,necunoscut,exploatare prin munca,42,259
+260,feminin,46,Romania,Romana,rural,Mures,fara studii,necunoscut,exploatare prin munca,42,260
+261,feminin,37,Romania,Romana,rural,Mures,studii primare,necunoscut,exploatare prin munca,42,261
+262,masculin,45,Romania,Romana,rural,Mures,fara studii,necunoscut,exploatare prin munca,42,262
+263,masculin,24,Romania,Romana,rural,Mures,fara studii,necunoscut,exploatare prin munca,42,263
+264,masculin,17,Romania,Romana,rural,Mures,studii primare,necunoscut,exploatare prin munca,42,264
+265,masculin,40,Romania,Romana,rural,Mures,studii gimnaziale,necunoscut,exploatare prin munca,42,265
+266,masculin,17,Romania,Romana,rural,Mures,studii gimnaziale,necunoscut,exploatare prin munca,42,266
+267,masculin,15,Romania,Romana,rural,Mures,studii gimnaziale,necunoscut,exploatare prin munca,42,267
+268,masculin,21,Romania,Romana,rural,Mures,studii primare,necunoscut,exploatare prin munca,42,268
+269,masculin,25,Romania,Romana,rural,Mures,fara studii,necunoscut,exploatare prin munca,42,269
+270,masculin,36,Romania,Romana,rural,Mures,fara studii,necunoscut,exploatare prin munca,42,270
+271,masculin,15,Romania,Romana,rural,Mures,studii gimnaziale,necunoscut,exploatare prin munca,42,271
+272,masculin,24,Romania,Romana,rural,Mures,studii primare,necunoscut,exploatare prin munca,42,272
+273,masculin,46,Romania,Romana,rural,Mures,studii primare,necunoscut,exploatare prin munca,42,273
+274,masculin,68,Romania,Romana,rural,Mures,fara studii,necunoscut,exploatare prin munca,42,274
+275,masculin,40,Romania,Romana,rural,Mures,studii primare,necunoscut,exploatare prin munca,42,275
+276,masculin,38,Franta,Romana,urban,Mures,fara studii,vecin,obligarea la cersetorie,42,276
+277,feminin,13,Franta,Romana,rural,Mures,studii primare,rude,obligarea la cersetorie,42,277
+278,feminin,35,Franta,Romana,urban,Mures,fara studii,vecin,obligarea la cersetorie,42,278
+279,masculin,43,Germania,Romana,rural,Mures,fara studii,vecin,obligarea la cersetorie,42,279
+280,feminin,38,Germania,Romana,rural,Mures,fara studii,vecin,obligarea la cersetorie,42,280
+281,feminin,33,Franta,Romana,rural,Mures,fara studii,vecin,obligarea la cersetorie,42,281
+282,masculin,30,Franta,Romana,rural,Mures,fara studii,vecin,obligarea la cersetorie,42,282
+283,masculin,6,Romania,Romana,urban,Mures,fara studii,rude,obligarea la cersetorie,42,283
+284,masculin,18,Germania,Romana,rural,Mures,studii primare,vecin,obligarea la cersetorie,42,284
+285,feminin,27,Franta,Romana,rural,Satu-Mare,studii gimnaziale,necunoscut,tentativa,42,285
+286,feminin,21,Romania,Romana,rural,Mures,studii liceale,necunoscut,tentativa,42,286
+287,masculin,15,Romania,Romana,urban,Mures,studii gimnaziale,necunoscut,exploatare sexuala,42,287
+288,masculin,12,Romania,Romana,urban,Mures,studii gimnaziale,necunoscut,exploatare sexuala,42,288
+289,masculin,21,Ungaria,Romana,rural,Mures,studii primare,necunoscut,exploatare prin munca,42,289
+290,feminin,19,Italia,Romana,rural,Giurgiu,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,290
+291,feminin,19,Italia,Romana,rural,Giurgiu,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,291
+292,feminin,18,Italia,Romana,rural,Teleorman,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,292
+293,feminin,16,Spania,Romana,rural,Teleorman,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,293
+294,feminin,16,Romania,Romana,rural,Teleorman,studii primare,cunostinta/prieten(a),exploatare sexuala,42,294
+295,feminin,28,Spania,Romana,urban,Teleorman,fara studii,cunostinta/prieten(a),exploatare sexuala,42,295
+296,feminin,22,UK,Romana,rural,Teleorman,studii superioare,cunostinta/prieten(a),exploatare sexuala,42,296
+297,feminin,12,Italia,Romana,rural,Teleorman,studii primare,rude,obligarea la cersetorie,42,297
+298,feminin,17,Austria,Romana,rural,Teleorman,studii primare,cunostinta/prieten(a),tentativa,42,298
+299,feminin,17,Romania,Romana,urban,Ilfov,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,299
+300,feminin,17,Romania,Romana,urban,Ilfov,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,300
+301,feminin,15,Romania,Romana,urban,Ilfov,studii gimnaziale,vecin,exploatare sexuala,42,301
+302,feminin,16,Romania,Romana,urban,Sibiu,studii primare,cunostinta/prieten(a),exploatare sexuala,42,302
+303,feminin,18,Germania,Romana,urban,Mures,studii gimnaziale,necunoscut,exploatare sexuala,42,303
+304,masculin,41,Cipru,Romana,urban,Sibiu,studii profesionale,necunoscut,exploatare prin munca,42,304
+305,masculin,44,Cipru,Romana,urban,Sibiu,studii profesionale,necunoscut,exploatare prin munca,42,305
+306,masculin,62,Germania,Romana,urban,Sibiu,studii liceale,necunoscut,obligarea la cersetorie,42,306
+307,feminin,38,Ungaria,Romana,rural,Sibiu,fara studii,partener(a)/sot(ie),obligarea la cersetorie,42,307
+308,feminin,63,Italia,Romana,rural,Sibiu,studii primare,vecin,obligarea la cersetorie,42,308
+309,feminin,16,Romania,Romana,rural,Giurgiu,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,309
+310,feminin,15,Romania,Romana,rural,Giurgiu,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,310
+311,feminin,17,UK,Romana,rural,Giurgiu,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,311
+312,feminin,14,Romania,Romana,rural,Giurgiu,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,312
+313,feminin,17,Romania,Romana,rural,Giurgiu,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,313
+314,feminin,15,Romania,Romana,rural,Giurgiu,studii gimnaziale,vecin,exploatare sexuala,42,314
+315,feminin,14,Romania,Romana,urban,Giurgiu,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,315
+316,feminin,15,Romania,Romana,rural,Giurgiu,studii gimnaziale,partener(a)/sot(ie),exploatare sexuala,42,316
+317,feminin,16,Romania,Romana,rural,Giurgiu,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,317
+318,feminin,16,Romania,Romana,rural,Giurgiu,studii gimnaziale,cunostinta/prieten(a),tentativa,42,318
+319,feminin,19,Germania,Romana,urban,Vaslui,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,319
+320,feminin,15,Romania,Romana,rural,Vaslui,studii primare,proxenet,exploatare sexuala,42,320
+321,feminin,17,Romania,Romana,rural,Vaslui,studii primare,proxenet,exploatare sexuala,42,321
+322,feminin,15,Romania,Romana,rural,Vaslui,studii primare,proxenet,exploatare sexuala,42,322
+323,feminin,26,Romania,Romana,urban,Vaslui,studii gimnaziale,vecin,exploatare sexuala,42,323
+324,feminin,29,Romania,Romana,rural,Constanta,studii primare,vecin,exploatare sexuala,42,324
+325,feminin,16,Romania,Romana,rural,Vaslui,studii gimnaziale,proxenet,exploatare sexuala,42,325
+326,feminin,15,Romania,Romana,urban,Vaslui,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,326
+327,feminin,14,Romania,Romana,urban,Vaslui,studii gimnaziale,vecin,exploatare sexuala,42,327
+328,feminin,16,Romania,Romana,rural,Vaslui,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,328
+329,feminin,35,Romania,Romana,rural,Vaslui,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,329
+330,feminin,22,Romania,Romana,urban,Vaslui,studii liceale,proxenet,exploatare sexuala,42,330
+331,feminin,19,UK,Romana,rural,Ialomita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,331
+332,feminin,29,Germania,Romana,rural,Ialomita,studii liceale,proxenet,exploatare sexuala,42,332
+333,feminin,20,Romania,Romana,rural,Ialomita,studii primare,cunostinta/prieten(a),exploatare sexuala,42,333
+334,feminin,16,Romania,Romana,urban,Ialomita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,334
+335,feminin,16,Romania,Romana,rural,Ialomita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,335
+336,masculin,40,Spania,Romana,rural,Ialomita,studii primare,cunostinta/prieten(a),exploatare prin munca,42,336
+337,feminin,47,Spania,Romana,rural,Ialomita,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,337
+338,masculin,37,Spania,Romana,rural,Ialomita,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,338
+339,masculin,46,Spania,Romana,rural,Ialomita,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,339
+340,masculin,43,Spania,Romana,rural,Ialomita,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,340
+341,masculin,35,Spania,Romana,rural,Ialomita,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,341
+342,masculin,23,Spania,Romana,rural,Ialomita,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,342
+343,feminin,47,Spania,Romana,rural,Ialomita,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,343
+344,masculin,40,Spania,Romana,rural,Ialomita,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,344
+345,masculin,21,Spania,Romana,rural,Ialomita,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,345
+346,masculin,19,Spania,Romana,rural,Ialomita,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,346
+347,feminin,49,Spania,Romana,rural,Ialomita,studii liceale,necunoscut,exploatare prin munca,42,347
+348,masculin,41,Spania,Romana,rural,Ialomita,studii liceale,necunoscut,exploatare prin munca,42,348
+349,masculin,18,Italia,Romana,rural,Ialomita,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,349
+350,masculin,22,Italia,Romana,rural,Ialomita,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,350
+351,masculin,29,Italia,Romana,rural,Ialomita,fara studii,cunostinta/prieten(a),exploatare prin munca,42,351
+352,masculin,34,Italia,Romana,rural,Ialomita,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,352
+353,feminin,20,Italia,Romana,rural,Ialomita,studii primare,cunostinta/prieten(a),exploatare prin munca,42,353
+354,masculin,18,Italia,Romana,rural,Ialomita,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,354
+355,masculin,31,Italia,Romana,rural,Ialomita,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,355
+356,masculin,24,Italia,Romana,rural,Ialomita,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,356
+357,masculin,41,Italia,Romana,rural,Ialomita,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,357
+358,feminin,16,Romania,Romana,rural,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,358
+359,feminin,17,Romania,Romana,rural,Dambovita,studii gimnaziale,necunoscut,exploatare sexuala,42,359
+360,feminin,26,Romania,Romana,rural,Arges,fara studii,cunostinta/prieten(a),exploatare sexuala,42,360
+361,feminin,17,Romania,Romana,urban,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,361
+362,feminin,17,Romania,Romana,urban,Dambovita,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,362
+363,feminin,25,Italia,Romana,rural,Arges,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,363
+364,feminin,23,Italia,Romana,urban,Arges,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,364
+365,feminin,25,Italia,Romana,rural,Arges,studii superioare,cunostinta/prieten(a),exploatare sexuala,42,365
+366,feminin,16,Romania,Romana,rural,Arges,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,366
+367,feminin,20,UK,Romana,rural,Arges,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,367
+368,feminin,16,Romania,Romana,rural,Arges,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,368
+369,feminin,16,Romania,Romana,urban,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,369
+370,feminin,17,Romania,Romana,urban,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,370
+371,feminin,16,Romania,Romana,urban,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,371
+372,feminin,21,Romania,Romana,urban,Arges,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,372
+373,feminin,18,Germania,Romana,rural,Arges,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,373
+374,feminin,23,Germania,Romana,urban,Arges,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,374
+375,feminin,20,Germania,Romana,urban,Brasov,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,375
+376,feminin,24,Germania,Romana,urban,Arges,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,376
+377,feminin,16,Romania,Romana,rural,Arges,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,377
+378,feminin,14,Romania,Romana,urban,Arges,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,378
+379,feminin,20,Germania,Romana,urban,Brasov,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,379
+380,feminin,15,Romania,Romana,urban,Arges,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,380
+381,feminin,15,Romania,Romana,urban,Arges,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,381
+382,feminin,17,Romania,Romana,rural,Arges,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,382
+383,feminin,17,Romania,Romana,rural,Arges,studii gimnaziale,necunoscut,exploatare sexuala,42,383
+384,feminin,18,Romania,Romana,rural,Arges,studii gimnaziale,necunoscut,exploatare sexuala,42,384
+385,feminin,17,Romania,Romana,rural,Arges,studii gimnaziale,necunoscut,exploatare sexuala,42,385
+386,feminin,17,Romania,Romana,urban,Arges,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,386
+387,feminin,18,Romania,Romana,rural,Arges,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,387
+388,feminin,16,Romania,Romana,urban,Dambovita,studii primare,cunostinta/prieten(a),exploatare sexuala,42,388
+389,feminin,14,Romania,Romana,urban,Dambovita,studii gimnaziale,rude,exploatare sexuala,42,389
+390,feminin,14,Romania,Romana,urban,Arges,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,390
+391,feminin,16,Romania,Romana,rural,Arges,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,391
+392,feminin,17,Romania,Romana,rural,Dambovita,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,392
+393,feminin,16,Romania,Romana,rural,Arges,studii liceale,necunoscut,exploatare sexuala,42,393
+394,masculin,47,Grecia,Romana,rural,Valcea,studii liceale,necunoscut,exploatare prin munca,42,394
+395,feminin,17,Romania,Romana,urban,Arges,studii liceale,rude,tentativa,42,395
+396,feminin,11,Romania,Romana,urban,Arges,studii primare,rude,tentativa,42,396
+397,feminin,19,Romania,Romana,urban,Arges,studii liceale,necunoscut,exploatare sexuala,42,397
+398,feminin,17,Romania,Romana,urban,Arges,studii liceale,necunoscut,exploatare sexuala,42,398
+399,feminin,17,Romania,Romana,rural,Arges,studii liceale,necunoscut,exploatare sexuala,42,399
+400,feminin,17,Romania,Romana,rural,Arges,studii liceale,necunoscut,exploatare sexuala,42,400
+401,feminin,17,Romania,Romana,rural,Arges,studii liceale,necunoscut,exploatare sexuala,42,401
+402,feminin,27,Grecia,Romana,rural,Suceava,studii primare,partener(a)/sot(ie),exploatare sexuala,42,402
+403,feminin,14,Romania,Romana,urban,Valcea,studii gimnaziale,partener(a)/sot(ie),exploatare sexuala,42,403
+404,feminin,14,Romania,Romana,urban,Valcea,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,404
+405,feminin,16,Romania,Romana,urban,Valcea,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,405
+406,feminin,17,Romania,Romana,urban,Valcea,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,406
+407,masculin,33,Germania,Romana,urban,Valcea,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,407
+408,feminin,25,Germania,Romana,urban,Valcea,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,408
+409,masculin,13,UK,Romana,urban,Valcea,fara studii,rude,obligarea la cersetorie,42,409
+410,masculin,36,Norvegia,Romana,rural,Valcea,fara studii,vecin,obligarea la cersetorie,42,410
+411,masculin,17,Norvegia,Romana,rural,Valcea,studii primare,vecin,obligarea la furturi,42,411
+412,feminin,27,Romania,Romana,rural,Valcea,studii liceale,cunostinta/prieten(a),tentativa,42,412
+413,feminin,26,Romania,Romana,urban,Valcea,studii liceale,cunostinta/prieten(a),tentativa,42,413
+414,feminin,18,18,Romana,rural,Valcea,studii gimnaziale,cunostinta/prieten(a),tentativa,42,414
+415,feminin,22,Austria,Romana,rural,Vrancea,studii liceale,necunoscut,exploatare sexuala,42,415
+416,feminin,33,Italia,Romana,urban,Braila,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,416
+417,feminin,19,Austria,Romana,urban,Vrancea,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,417
+418,feminin,22,Austria,Romana,urban,Braila,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,418
+419,feminin,18,Italia,Romana,rural,Braila,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,419
+420,feminin,19,Spania,Romana,urban,Braila,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,420
+421,feminin,19,Germania,Romana,rural,Braila,studii gimnaziale,necunoscut,exploatare sexuala,42,421
+422,feminin,18,Belgia,Romana,rural,Braila,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,422
+423,feminin,22,Grecia,Romana,rural,Braila,studii gimnaziale,vecin,exploatare sexuala,42,423
+424,feminin,30,UK,Romana,urban,Braila,studii profesionale,cunostinta/prieten(a),exploatare sexuala,42,424
+425,feminin,18,Belgia,Romana,urban,Braila,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,425
+426,feminin,18,Belgia,Romana,urban,Braila,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,426
+427,feminin,20,Austria,Romana,urban,Braila,studii liceale,proxenet,exploatare sexuala,42,427
+428,feminin,15,Romania,Romana,urban,Braila,studii gimnaziale,vecin,exploatare sexuala,42,428
+429,feminin,43,Franta,Romana,urban,Braila,studii gimnaziale,cunostinta/prieten(a),obligarea la cersetorie,42,429
+430,masculin,27,Italia,Romana,rural,Braila,studii primare,rude,obligarea la cersetorie,42,430
+431,feminin,18,Spania,Romana,urban,Calarasi,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,431
+432,feminin,25,Spania,Romana,urban,Calarasi,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,432
+433,feminin,18,Franta,Romana,urban,Constanta,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,433
+434,feminin,25,Germania,Romana,urban,Calarasi,studii superioare,cunostinta/prieten(a),exploatare sexuala,42,434
+435,feminin,19,Franta,Romana,urban,Calarasi,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,435
+436,feminin,23,Franta,Romana,urban,Prahova,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,436
+437,feminin,24,Spania,Romana,urban,Calarasi,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,437
+438,feminin,21,Franta,Romana,urban,Calarasi,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,438
+439,feminin,16,Romania,Romana,rural,Calarasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,439
+440,feminin,16,Romania,Romana,rural,Calarasi,studii gimnaziale,proxenet,exploatare sexuala,42,440
+441,feminin,16,Romania,Romana,urban,Ialomita,studii gimnaziale,proxenet,exploatare sexuala,42,441
+442,feminin,25,Romania,Romana,urban,Calarasi,studii profesionale,proxenet,exploatare sexuala,42,442
+443,feminin,14,Romania,Romana,rural,Calarasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,443
+444,feminin,17,Grecia,Romana,rural,Tulcea,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,444
+445,masculin,53,Libia,Romana,urban,Tulcea,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,445
+446,masculin,33,Libia,Romana,urban,Tulcea,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,446
+447,masculin,46,Libia,Romana,rural,Tulcea,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,447
+448,masculin,47,Libia,Romana,rural,Tulcea,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,448
+449,masculin,53,Libia,Romana,urban,Tulcea,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,449
+450,masculin,60,Libia,Romana,urban,Tulcea,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,450
+451,masculin,20,Portugalia,Romana,urban,Constanta,fara studii,cunostinta/prieten(a),obligarea la cersetorie,42,451
+452,feminin,16,Romania,Romana,urban,Teleorman,studii gimnaziale,partener(a)/sot(ie),exploatare sexuala,42,452
+453,feminin,17,Romania,Romana,urban,Bucuresti,studii primare,cunostinta/prieten(a),exploatare sexuala,42,453
+454,feminin,19,Germania,Romana,urban,Dambovita,studii primare,proxenet,exploatare sexuala,42,454
+455,feminin,19,Germania,Romana,rural,Arges,studii gimnaziale,proxenet,exploatare sexuala,42,455
+456,feminin,14,Romania,Romana,urban,Bucuresti,studii gimnaziale,proxenet,exploatare sexuala,42,456
+457,feminin,28,Spania,Romana,urban,Buzau,studii gimnaziale,proxenet,exploatare sexuala,42,457
+458,feminin,26,Spania,Romana,rural,Iasi,studii gimnaziale,proxenet,exploatare sexuala,42,458
+459,feminin,19,Germania,Romana,rural,Teleorman,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,459
+460,feminin,21,Germania,Romana,urban,Bucuresti,studii liceale,necunoscut,exploatare sexuala,42,460
+461,feminin,17,Germania,Romana,urban,Bucuresti,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,461
+462,feminin,16,Romania,Romana,rural,Prahova,studii profesionale,proxenet,exploatare sexuala,42,462
+463,feminin,19,UK,Romana,urban,Bucuresti,studii gimnaziale,rude,exploatare sexuala,42,463
+464,feminin,23,Romania,Romana,rural,Prahova,studii gimnaziale,proxenet,exploatare sexuala,42,464
+465,feminin,17,Romania,Romana,rural,Giurgiu,studii gimnaziale,proxenet,exploatare sexuala,42,465
+466,feminin,24,Romania,Romana,rural,Vaslui,studii gimnaziale,proxenet,exploatare sexuala,42,466
+467,feminin,14,Romania,Romana,rural,Giurgiu,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,467
+468,feminin,14,Romania,Romana,urban,Bucuresti,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,468
+469,feminin,16,Romania,Romana,rural,Ilfov,studii gimnaziale,proxenet,exploatare sexuala,42,469
+470,feminin,22,Romania,Romana,urban,Bucuresti,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,470
+471,feminin,20,Franta,Romana,urban,Bucuresti,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,471
+472,feminin,33,Italia,Romana,urban,Bucuresti,studii liceale,necunoscut,exploatare prin munca,42,472
+473,masculin,45,Italia,Romana,urban,Bucuresti,studii liceale,necunoscut,exploatare prin munca,42,473
+474,masculin,24,Spania,Romana,urban,Bucuresti,studii superioare,necunoscut,exploatare prin munca,42,474
+475,masculin,31,Spania,Romana,urban,Bucuresti,studii liceale,necunoscut,exploatare prin munca,42,475
+476,masculin,22,Italia,Romana,urban,Bucuresti,studii gimnaziale,necunoscut,exploatare prin munca,42,476
+477,feminin,43,Italia,Romana,urban,Bucuresti,studii gimnaziale,necunoscut,exploatare prin munca,42,477
+478,masculin,24,Italia,Romana,urban,Bucuresti,studii liceale,necunoscut,exploatare prin munca,42,478
+479,masculin,28,Italia,Romana,urban,Bucuresti,studii liceale,necunoscut,exploatare prin munca,42,479
+480,feminin,23,Italia,Romana,urban,Bucuresti,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,480
+481,feminin,54,Italia,Romana,rural,Gorj,studii gimnaziale,necunoscut,exploatare prin munca,42,481
+482,masculin,50,Italia,Romana,rural,Gorj,studii gimnaziale,necunoscut,exploatare prin munca,42,482
+483,masculin,31,Italia,Romana,urban,Bucuresti,studii superioare,necunoscut,exploatare prin munca,42,483
+484,masculin,25,Qatar,Romana,urban,,studii liceale,necunoscut,exploatare prin munca,42,484
+485,masculin,45,Qatar,Romana,urban,Bucuresti,studii profesionale,necunoscut,exploatare prin munca,42,485
+486,masculin,2,Franta,Romana,rural,Ilfov,fara studii,cunostinta/prieten(a),obligarea la cersetorie,42,486
+487,masculin,16,Romania,Romana,urban,Bucuresti,studii gimnaziale,proxenet,exploatare sexuala,42,487
+488,feminin,13,Romania,Romana,urban,Bucuresti,studii gimnaziale,proxenet,exploatare sexuala,42,488
+489,masculin,15,Romania,Romana,urban,Bucuresti,studii gimnaziale,proxenet,exploatare sexuala,42,489
+490,masculin,15,Romania,Romana,urban,Bucuresti,studii gimnaziale,proxenet,exploatare sexuala,42,490
+491,feminin,17,Romania,Romana,rural,Bacau,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,491
+492,feminin,25,UK,Romana,urban,,studii liceale,vecin,alte situatii de exploatare,42,492
+493,feminin,23,Belgia,Romana,urban,Braila,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,493
+494,feminin,14,Romania,Romana,urban,Galati,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,494
+495,feminin,17,Italia,Romana,rural,Galati,studii gimnaziale,necunoscut,exploatare sexuala,42,495
+496,feminin,18,UK,Romana,rural,Galati,studii profesionale,partener(a)/sot(ie),exploatare sexuala,42,496
+497,feminin,13,Romania,Romana,rural,,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,497
+498,feminin,13,Romania,Romana,rural,Galati,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,498
+499,feminin,16,Portugalia,Romana,rural,Galati,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,499
+500,feminin,22,Romania,Romana,urban,Bacau,studii liceale,necunoscut,exploatare sexuala,42,500
+501,feminin,21,Romania,Romana,urban,Galati,studii liceale,necunoscut,exploatare sexuala,42,501
+502,feminin,17,Romania,Romana,urban,Galati,studii liceale,necunoscut,exploatare sexuala,42,502
+503,feminin,20,Romania,Romana,urban,Galati,studii liceale,necunoscut,exploatare sexuala,42,503
+504,feminin,23,Romania,Romana,urban,Galati,studii liceale,necunoscut,exploatare sexuala,42,504
+505,feminin,17,Romania,Romana,urban,Galati,studii gimnaziale,necunoscut,exploatare sexuala,42,505
+506,feminin,20,Romania,Romana,urban,Braila,studii liceale,necunoscut,exploatare sexuala,42,506
+507,feminin,18,Romania,Romana,urban,Galati,studii liceale,necunoscut,exploatare sexuala,42,507
+508,feminin,18,Romania,Romana,urban,Galati,studii gimnaziale,necunoscut,exploatare sexuala,42,508
+509,feminin,20,Romania,Romana,urban,Galati,studii gimnaziale,necunoscut,exploatare sexuala,42,509
+510,feminin,17,Italia,Romana,rural,Galati,studii gimnaziale,necunoscut,exploatare sexuala,42,510
+511,feminin,19,Austria,Romana,rural,Galati,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,511
+512,feminin,23,Austria,Romana,urban,Galati,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,512
+513,feminin,17,Austria,Romana,rural,Galati,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,513
+514,feminin,18,Elvetia,Romana,urban,Galati,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,514
+515,feminin,18,UK,Romana,rural,Galati,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,515
+516,feminin,15,Romania,Romana,rural,Galati,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,516
+517,feminin,15,Germania,Romana,rural,Galati,fara studii,partener(a)/sot(ie),obligarea la cersetorie,42,517
+518,masculin,13,Romania,Romana,urban,Galati,studii primare,cunostinta/prieten(a),obligarea la cersetorie,42,518
+519,masculin,12,Romania,Romana,urban,Galati,studii primare,cunostinta/prieten(a),obligarea la cersetorie,42,519
+520,feminin,15,Suedia,Romana,rural,Iasi,studii gimnaziale,cunostinta/prieten(a),obligarea la cersetorie,42,520
+521,feminin,24,Italia,Romana,urban,Vrancea,studii gimnaziale,partener(a)/sot(ie),exploatare sexuala,42,521
+522,feminin,17,Romania,Romana,rural,Galati,studii primare,cunostinta/prieten(a),exploatare sexuala,42,522
+523,feminin,17,Romania,Romana,urban,Vrancea,studii primare,partener(a)/sot(ie),exploatare sexuala,42,523
+524,feminin,17,Romania,Romana,urban,Vrancea,studii primare,cunostinta/prieten(a),exploatare sexuala,42,524
+525,feminin,40,Romania,Romana,rural,Vrancea,studii gimnaziale,partener(a)/sot(ie),exploatare sexuala,42,525
+526,feminin,15,Romania,Romana,rural,Vrancea,studii primare,vecin,exploatare sexuala,42,526
+527,feminin,17,Romania,Romana,urban,Vrancea,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,527
+528,feminin,17,Romania,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,528
+529,feminin,16,Romania,Romana,urban,Vrancea,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,529
+530,feminin,15,Romania,Romana,rural,Vrancea,studii gimnaziale,vecin,exploatare sexuala,42,530
+531,feminin,21,Grecia,Romana,urban,Vrancea,fara studii,cunostinta/prieten(a),exploatare sexuala,42,531
+532,feminin,26,Grecia,Romana,urban,Constanta,fara studii,cunostinta/prieten(a),exploatare sexuala,42,532
+533,feminin,18,Grecia,Romana,urban,Vrancea,fara studii,necunoscut,exploatare sexuala,42,533
+534,feminin,18,Romania,Romana,rural,Vrancea,studii gimnaziale,necunoscut,exploatare sexuala,42,534
+535,feminin,22,Romania,Romana,rural,Braila,studii superioare,vecin,exploatare sexuala,42,535
+536,feminin,24,Romania,Romana,rural,Braila,studii gimnaziale,necunoscut,exploatare sexuala,42,536
+537,feminin,17,Romania,Romana,urban,Vrancea,studii gimnaziale,necunoscut,exploatare sexuala,42,537
+538,feminin,18,Romania,Romana,urban,Vrancea,studii gimnaziale,necunoscut,exploatare sexuala,42,538
+539,feminin,12,Romania,Romana,urban,Tulcea,studii primare,necunoscut,exploatare sexuala,42,539
+540,feminin,18,Italia,Romana,urban,Brasov,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,540
+541,feminin,19,Austria,Romana,rural,Brasov,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,541
+542,masculin,18,Romania,Romana,rural,Arges,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,542
+543,feminin,17,Romania,Romana,rural,Brasov,studii primare,cunostinta/prieten(a),exploatare sexuala,42,543
+544,feminin,16,Romania,Romana,rural,Brasov,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,544
+545,masculin,25,Italia,Romana,rural,Caras-Severin,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,545
+546,masculin,28,Cipru,Romana,rural,Brasov,studii gimnaziale,necunoscut,exploatare prin munca,42,546
+547,feminin,25,Italia,Romana,rural,Brasov,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,547
+548,masculin,22,Italia,Romana,rural,Brasov,studii gimnaziale,cunostinta/prieten(a),obligarea la cersetorie,42,548
+549,masculin,18,Italia,Romana,urban,Brasov,studii liceale,cunostinta/prieten(a),obligarea la cersetorie,42,549
+550,masculin,33,Italia,Romana,rural,Brasov,studii primare,cunostinta/prieten(a),obligarea la cersetorie,42,550
+551,masculin,20,Italia,Romana,rural,Brasov,studii gimnaziale,cunostinta/prieten(a),obligarea la cersetorie,42,551
+552,masculin,13,Romania,Romana,urban,Brasov,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,552
+553,masculin,14,Romania,Romana,urban,Brasov,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,553
+554,masculin,12,Romania,Romana,urban,Brasov,studii primare,cunostinta/prieten(a),exploatare sexuala,42,554
+555,masculin,12,Romania,Romana,rural,Brasov,studii primare,cunostinta/prieten(a),exploatare sexuala,42,555
+556,masculin,13,Romania,Romana,urban,Brasov,studii primare,cunostinta/prieten(a),exploatare sexuala,42,556
+557,masculin,12,Romania,Romana,urban,Brasov,studii primare,cunostinta/prieten(a),exploatare sexuala,42,557
+558,masculin,14,Romania,Romana,urban,Brasov,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,558
+559,feminin,17,Romania,Romana,urban,Brasov,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,559
+560,masculin,15,Romania,Romana,urban,Brasov,studii liceale,cunostinta/prieten(a),tentativa,42,560
+561,masculin,14,Romania,Romana,rural,Brasov,studii primare,cunostinta/prieten(a),tentativa,42,561
+562,masculin,14,Romania,Romana,rural,Brasov,studii primare,cunostinta/prieten(a),tentativa,42,562
+563,feminin,16,Romania,Romana,urban,Brasov,studii gimnaziale,rude,tentativa,42,563
+564,feminin,14,Romania,Romana,urban,Brasov,studii gimnaziale,vecin,tentativa,42,564
+565,feminin,17,Romania,Romana,urban,Brasov,studii gimnaziale,vecin,tentativa,42,565
+566,feminin,16,Romania,Romana,urban,Brasov,studii gimnaziale,vecin,tentativa,42,566
+567,feminin,13,Romania,Romana,urban,Brasov,studii primare,vecin,tentativa,42,567
+568,masculin,36,Italia,Romana,rural,Covasna,fara studii,necunoscut,exploatare prin munca,42,568
+569,feminin,43,Germania,Romana,urban,Brasov,fara studii,cunostinta/prieten(a),exploatare prin munca,42,569
+570,masculin,41,Germania,Romana,urban,Brasov,fara studii,vecin,exploatare prin munca,42,570
+571,masculin,35,Italia,Romana,rural,Brasov,fara studii,rude,exploatare prin munca,42,571
+572,masculin,43,Germania,Romana,urban,Brasov,fara studii,vecin,exploatare prin munca,42,572
+573,masculin,39,Italia,Romana,rural,Brasov,fara studii,necunoscut,exploatare prin munca,42,573
+574,masculin,30,Germania,Romana,urban,Brasov,fara studii,vecin,exploatare prin munca,42,574
+575,masculin,30,Germania,Romana,urban,Brasov,fara studii,cunostinta/prieten(a),exploatare prin munca,42,575
+576,masculin,20,Italia,Romana,rural,Brasov,fara studii,necunoscut,exploatare prin munca,42,576
+577,masculin,43,Germania,Romana,urban,Brasov,fara studii,cunostinta/prieten(a),exploatare prin munca,42,577
+578,masculin,36,Italia,Romana,rural,Brasov,fara studii,necunoscut,exploatare prin munca,42,578
+579,masculin,36,Italia,Romana,rural,Brasov,studii primare,necunoscut,exploatare prin munca,42,579
+580,masculin,19,Germania,Romana,urban,Brasov,studii gimnaziale,necunoscut,exploatare prin munca,42,580
+581,masculin,42,999,Romana,urban,Brasov,fara studii,vecin,exploatare prin munca,42,581
+582,masculin,28,Italia,Romana,rural,Brasov,fara studii,necunoscut,exploatare prin munca,42,582
+583,masculin,23,Italia,Romana,rural,Brasov,fara studii,necunoscut,exploatare prin munca,42,583
+584,feminin,16,Romania,Romana,urban,Brasov,studii primare,cunostinta/prieten(a),exploatare sexuala,42,584
+585,masculin,25,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,585
+586,feminin,16,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,586
+587,feminin,19,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,587
+588,feminin,17,Romania,Romana,urban,Timis,studii primare,cunostinta/prieten(a),exploatare sexuala,42,588
+589,feminin,22,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,589
+590,feminin,18,Romania,Romana,urban,Caras-Severin,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,590
+591,feminin,21,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,591
+592,feminin,18,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,592
+593,feminin,18,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,593
+594,feminin,18,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,594
+595,feminin,20,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,595
+596,feminin,19,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,596
+597,feminin,19,Romania,Romana,urban,Mehedinti,studii primare,cunostinta/prieten(a),exploatare sexuala,42,597
+598,feminin,19,Romania,Romana,urban,Mehedinti,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,598
+599,feminin,19,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,599
+600,feminin,19,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,600
+601,feminin,19,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,601
+602,feminin,19,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,602
+603,feminin,19,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,603
+604,feminin,33,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,604
+605,feminin,27,Romania,Romana,rural,Hunedoara,studii profesionale,cunostinta/prieten(a),exploatare sexuala,42,605
+606,feminin,20,Romania,Romana,urban,Arad,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,606
+607,feminin,19,Romania,Romana,rural,Arad,studii primare,cunostinta/prieten(a),exploatare sexuala,42,607
+608,feminin,15,Romania,Romana,urban,Timis,studii primare,necunoscut,exploatare sexuala,42,608
+609,feminin,15,Romania,Romana,urban,Timis,studii primare,necunoscut,exploatare sexuala,42,609
+610,feminin,14,Romania,Romana,urban,Timis,studii primare,necunoscut,exploatare sexuala,42,610
+611,feminin,20,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,611
+612,feminin,16,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,612
+613,feminin,29,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,613
+614,feminin,16,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,614
+615,feminin,16,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,615
+616,feminin,16,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,616
+617,feminin,15,Romania,Romana,,Bacau,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,617
+618,feminin,15,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,618
+619,feminin,15,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,619
+620,feminin,14,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,620
+621,feminin,20,Romania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,621
+622,feminin,19,Franta,Romana,rural,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,622
+623,feminin,21,Romania,Romana,rural,Salaj,studii primare,cunostinta/prieten(a),exploatare sexuala,42,623
+624,feminin,18,Romania,Romana,rural,Salaj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,624
+625,feminin,19,Romania,Romana,rural,Salaj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,625
+626,feminin,19,Romania,Romana,urban,Bucuresti,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,626
+627,feminin,19,Romania,Romana,rural,Timis,studii primare,necunoscut,exploatare sexuala,42,627
+628,feminin,45,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,628
+629,masculin,39,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,629
+630,masculin,45,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,630
+631,masculin,29,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,631
+632,masculin,28,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,632
+633,masculin,24,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,633
+634,feminin,19,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,634
+635,masculin,22,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,635
+636,masculin,25,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,636
+637,masculin,44,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,637
+638,masculin,25,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,638
+639,masculin,23,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,639
+640,masculin,41,Italia,Romana,,Ialomita,,cunostinta/prieten(a),exploatare prin munca,42,640
+641,masculin,47,Franta,Romana,urban,Timis,studii profesionale,necunoscut,exploatare prin munca,42,641
+642,masculin,39,Franta,Romana,urban,Timis,studii profesionale,necunoscut,exploatare prin munca,42,642
+643,masculin,41,Franta,Romana,urban,Timis,studii profesionale,necunoscut,exploatare prin munca,42,643
+644,feminin,26,Germania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,644
+645,feminin,45,Germania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,645
+646,feminin,30,Germania,Romana,urban,Timis,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,646
+647,masculin,14,Romania,Romana,urban,Timis,studii primare,cunostinta/prieten(a),obligarea la furturi,42,647
+648,masculin,38,Romania,Romana,rural,Timis,studii profesionale,cunostinta/prieten(a),exploatare prin munca,42,648
+649,masculin,36,Romania,Romana,urban,Timis,studii profesionale,cunostinta/prieten(a),exploatare prin munca,42,649
+650,masculin,27,Romania,Romana,rural,Timis,studii primare,cunostinta/prieten(a),exploatare prin munca,42,650
+651,masculin,20,Romania,Romana,urban,Timis,studii primare,cunostinta/prieten(a),exploatare prin munca,42,651
+652,feminin,29,Romania,Romana,rural,Timis,fara studii,cunostinta/prieten(a),exploatare prin munca,42,652
+653,feminin,19,Germania,Romana,urban,Arad,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,653
+654,feminin,19,Romania,Romana,rural,Buzau,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,654
+655,masculin,21,Irlanda,Romana,urban,Arad,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,655
+656,feminin,16,Spania,Romana,rural,Arad,studii gimnaziale,cunostinta/prieten(a),obligarea la cersetorie,42,656
+657,masculin,18,Germania,Romana,rural,Arad,studii primare,necunoscut,exploatare prin munca,42,657
+658,masculin,17,Germania,Romana,rural,Arad,studii primare,cunostinta/prieten(a),exploatare prin munca,42,658
+659,masculin,25,Irlanda,Romana,rural,Arad,studii gimnaziale,necunoscut,exploatare prin munca,42,659
+660,masculin,25,Irlanda,Romana,urban,Arad,studii gimnaziale,necunoscut,exploatare prin munca,42,660
+661,masculin,42,Irlanda,Romana,urban,Arad,studii gimnaziale,necunoscut,exploatare prin munca,42,661
+662,masculin,50,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,662
+663,masculin,45,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,663
+664,masculin,36,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,664
+665,masculin,58,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,665
+666,masculin,43,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,666
+667,masculin,44,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,667
+668,masculin,46,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,668
+669,masculin,42,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,669
+670,masculin,33,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,670
+671,masculin,55,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,671
+672,masculin,46,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,672
+673,masculin,42,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,673
+674,masculin,55,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,674
+675,masculin,39,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,675
+676,masculin,51,Danemarca,Romana,rural,Vrancea,studii gimnaziale,cunostinta/prieten(a),alte situatii de exploatare,42,676
+677,masculin,12,Romania,Romana,urban,Caras-Severin,studii primare,necunoscut,exploatare sexuala,42,677
+678,masculin,14,Romania,Romana,urban,Caras-Severin,studii primare,necunoscut,exploatare sexuala,42,678
+679,feminin,25,Italia,Romana,rural,Hunedoara,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,679
+680,feminin,19,Elvetia,Romana,urban,Caras-Severin,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,680
+681,masculin,39,Belgia,Romana,urban,Caras-Severin,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,681
+682,feminin,18,Romania,Romana,rural,Sibiu,studii primare,proxenet,exploatare sexuala,42,682
+683,feminin,14,Romania,Romana,urban,Sibiu,studii primare,proxenet,exploatare sexuala,42,683
+684,feminin,16,Romania,Romana,urban,Hunedoara,studii primare,partener(a)/sot(ie),exploatare sexuala,42,684
+685,feminin,20,Italia,Romana,urban,Alba,fara studii,partener(a)/sot(ie),exploatare sexuala,42,685
+686,feminin,18,Romania,Romana,urban,Sibiu,studii primare,cunostinta/prieten(a),exploatare sexuala,42,686
+687,feminin,23,Romania,Romana,urban,Sibiu,studii profesionale,cunostinta/prieten(a),exploatare sexuala,42,687
+688,feminin,20,Romania,Romana,urban,Sibiu,studii primare,cunostinta/prieten(a),exploatare sexuala,42,688
+689,feminin,34,Romania,Romana,urban,Sibiu,studii primare,cunostinta/prieten(a),exploatare sexuala,42,689
+690,feminin,16,Romania,Romana,urban,Hunedoara,studii gimnaziale,proxenet,exploatare sexuala,42,690
+691,feminin,24,Romania,Romana,rural,Sibiu,studii profesionale,cunostinta/prieten(a),exploatare sexuala,42,691
+692,feminin,30,Romania,Romana,rural,Sibiu,studii profesionale,necunoscut,exploatare sexuala,42,692
+693,feminin,20,Romania,Romana,urban,Sibiu,studii gimnaziale,necunoscut,exploatare sexuala,42,693
+694,feminin,21,Romania,Romana,urban,Sibiu,studii profesionale,necunoscut,exploatare sexuala,42,694
+695,feminin,26,Romania,Romana,rural,Sibiu,studii profesionale,necunoscut,exploatare sexuala,42,695
+696,feminin,22,Romania,Romana,rural,Sibiu,studii profesionale,cunostinta/prieten(a),exploatare sexuala,42,696
+697,feminin,17,Romania,Romana,rural,Alba,studii liceale,necunoscut,exploatare sexuala,42,697
+698,feminin,21,Austria,Romana,rural,Alba,studii profesionale,rude,exploatare sexuala,42,698
+699,feminin,18,Austria,Romana,urban,Alba,studii liceale,vecin,exploatare sexuala,42,699
+700,feminin,14,Romania,Romana,urban,Hunedoara,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,700
+701,feminin,14,Romania,Romana,urban,Alba,studii gimnaziale,partener(a)/sot(ie),exploatare sexuala,42,701
+702,feminin,15,Romania,Romana,urban,Hunedoara,studii primare,cunostinta/prieten(a),exploatare sexuala,42,702
+703,feminin,25,Germania,Romana,urban,Hunedoara,studii gimnaziale,proxenet,exploatare sexuala,42,703
+704,feminin,17,Romania,Romana,urban,Hunedoara,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,704
+705,feminin,26,Franta,Romana,rural,Alba,studii gimnaziale,cunostinta/prieten(a),obligarea la cersetorie,42,705
+706,masculin,12,Romania,Romana,urban,Sibiu,studii gimnaziale,vecin,obligarea la cersetorie,42,706
+707,feminin,15,Romania,Romana,urban,Hunedoara,studii primare,partener(a)/sot(ie),tentativa,42,707
+708,feminin,17,Romania,Romana,rural,Cluj,studii gimnaziale,necunoscut,exploatare sexuala,42,708
+709,feminin,18,Romania,Romana,urban,Sibiu,studii gimnaziale,necunoscut,exploatare sexuala,42,709
+710,masculin,14,Romania,Romana,urban,Hunedoara,studii primare,necunoscut,exploatare sexuala,42,710
+711,masculin,15,Romania,Romana,urban,Hunedoara,studii primare,necunoscut,exploatare sexuala,42,711
+712,masculin,14,Romania,Romana,urban,Hunedoara,studii primare,necunoscut,exploatare sexuala,42,712
+713,feminin,27,Romania,Romana,urban,Cluj,studii primare,partener(a)/sot(ie),exploatare sexuala,42,713
+714,feminin,16,UK,Romana,rural,Maramures,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,714
+715,feminin,40,Italia,Romana,rural,Cluj,fara studii,cunostinta/prieten(a),exploatare sexuala,42,715
+716,feminin,20,Italia,Romana,rural,Cluj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,716
+717,feminin,8,Romania,Romana,urban,Arad,studii primare,rude,obligarea la cersetorie,42,717
+718,feminin,14,Romania,Romana,rural,Salaj,fara studii,rude,obligarea la cersetorie,42,718
+719,feminin,17,Romania,Romana,urban,Cluj,fara studii,rude,obligarea la cersetorie,42,719
+720,masculin,10,Romania,Romana,rural,Cluj,fara studii,rude,obligarea la cersetorie,42,720
+721,masculin,12,Romania,Romana,rural,Cluj,fara studii,rude,obligarea la cersetorie,42,721
+722,feminin,12,Romania,Romana,rural,Cluj,fara studii,rude,obligarea la cersetorie,42,722
+723,feminin,12,Romania,Romana,rural,Cluj,fara studii,rude,obligarea la cersetorie,42,723
+724,feminin,21,Romania,Romana,rural,Cluj,fara studii,rude,obligarea la cersetorie,42,724
+725,feminin,14,Romania,Romana,rural,Cluj,fara studii,rude,obligarea la cersetorie,42,725
+726,feminin,26,Romania,Romana,rural,Cluj,fara studii,rude,obligarea la cersetorie,42,726
+727,feminin,15,Romania,Romana,urban,Cluj,studii gimnaziale,necunoscut,exploatare sexuala,42,727
+728,feminin,15,Romania,Romana,urban,Cluj,studii gimnaziale,cunostinta/prieten(a),tentativa,42,728
+729,feminin,17,Romania,Romana,urban,Maramures,studii gimnaziale,proxenet,exploatare sexuala,42,729
+730,feminin,15,Romania,Romana,urban,Maramures,studii gimnaziale,proxenet,exploatare sexuala,42,730
+731,feminin,16,Romania,Romana,urban,Maramures,studii gimnaziale,proxenet,exploatare sexuala,42,731
+732,feminin,32,Romania,Romana,urban,Bistria-Nasaud,studii gimnaziale,vecin,exploatare sexuala,42,732
+733,feminin,20,Italia,Romana,urban,Bistria-Nasaud,studii gimnaziale,partener(a)/sot(ie),exploatare sexuala,42,733
+734,feminin,15,Romania,Romana,urban,Bistria-Nasaud,studii gimnaziale,vecin,exploatare sexuala,42,734
+735,feminin,15,Romania,Romana,urban,Bistria-Nasaud,studii gimnaziale,vecin,exploatare sexuala,42,735
+736,feminin,16,Irlanda,Romana,urban,Bistria-Nasaud,studii gimnaziale,partener(a)/sot(ie),obligarea la furturi,42,736
+737,masculin,22,Turcia,Romana,urban,Bistria-Nasaud,studii liceale,necunoscut,alte situatii de exploatare,42,737
+738,masculin,40,Turcia,Romana,urban,Bistria-Nasaud,studii liceale,vecin,alte situatii de exploatare,42,738
+739,feminin,25,Germania,Romana,rural,Salaj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,739
+740,masculin,34,UK,Romana,rural,Salaj,studii primare,cunostinta/prieten(a),obligarea la cersetorie,42,740
+741,masculin,17,Romania,Romana,urban,Salaj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,741
+742,masculin,18,Romania,Romana,urban,Salaj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,742
+743,feminin,31,UK,Romana,rural,Salaj,studii superioare,cunostinta/prieten(a),exploatare prin munca,42,743
+744,masculin,33,UK,Romana,rural,Salaj,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,744
+745,feminin,22,UK,Romana,rural,Salaj,studii primare,cunostinta/prieten(a),exploatare prin munca,42,745
+746,feminin,15,Romania,Romana,urban,Botosani,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,746
+747,feminin,19,Grecia,Romana,urban,Botosani,studii gimnaziale,necunoscut,exploatare sexuala,42,747
+748,feminin,21,Italia,Romana,urban,Botosani,studii liceale,necunoscut,exploatare sexuala,42,748
+749,feminin,8,Romania,Romana,rural,Botosani,fara studii,rude,exploatare sexuala,42,749
+750,feminin,14,Romania,Romana,rural,Botosani,studii gimnaziale,rude,exploatare sexuala,42,750
+751,masculin,36,Portugalia,Romana,rural,Botosani,studii liceale,necunoscut,exploatare prin munca,42,751
+752,masculin,43,Portugalia,Romana,rural,Botosani,studii profesionale,necunoscut,exploatare prin munca,42,752
+753,masculin,19,Portugalia,Romana,urban,Botosani,studii liceale,necunoscut,exploatare prin munca,42,753
+754,masculin,42,Portugalia,Romana,urban,Botosani,studii profesionale,necunoscut,exploatare prin munca,42,754
+755,masculin,17,Romania,Romana,rural,Botosani,studii gimnaziale,necunoscut,exploatare sexuala,42,755
+756,feminin,18,Austria,Romana,urban,Gorj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,756
+757,feminin,24,Austria,Romana,urban,Gorj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,757
+758,feminin,20,Austria,Romana,rural,Gorj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,758
+759,feminin,33,Italia,Romana,rural,Gorj,studii gimnaziale,necunoscut,exploatare sexuala,42,759
+760,feminin,29,Austria,Romana,urban,Gorj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,760
+761,feminin,19,Italia,Romana,urban,Olt,studii liceale,necunoscut,exploatare sexuala,42,761
+762,feminin,25,Italia,Romana,rural,Olt,studii gimnaziale,vecin,exploatare sexuala,42,762
+763,feminin,25,Romania,Romana,rural,Olt,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,763
+764,feminin,20,Italia,Romana,rural,Olt,studii gimnaziale,proxenet,exploatare sexuala,42,764
+765,feminin,15,Romania,Romana,rural,Olt,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,765
+766,feminin,16,Romania,Romana,rural,Olt,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,766
+767,feminin,18,Grecia,Romana,urban,Suceava,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,767
+768,feminin,19,Germania,Romana,rural,Suceava,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,768
+769,feminin,20,Germania,Romana,rural,Suceava,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,769
+770,feminin,28,UK,Romana,rural,Suceava,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,770
+771,feminin,18,Elvetia,Romana,rural,Botosani,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,771
+772,feminin,15,Romania,Romana,urban,Suceava,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,772
+773,feminin,15,Romania,Romana,urban,Suceava,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,773
+774,feminin,16,Romania,Romana,urban,Suceava,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,774
+775,feminin,15,Romania,Romana,rural,Suceava,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,775
+776,feminin,14,Romania,Romana,rural,Botosani,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,776
+777,feminin,15,Romania,Romana,rural,Prahova,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,777
+778,feminin,18,Olanda,Romana,urban,Botosani,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,778
+779,feminin,18,Olanda,Romana,urban,Vrancea,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,779
+780,feminin,24,Olanda,Romana,rural,Botosani,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,780
+781,feminin,16,Romania,Romana,rural,Neamt,studii gimnaziale,cunostinta/prieten(a),obligarea la cersetorie,42,781
+782,feminin,13,Romania,Romana,rural,Neamt,fara studii,cunostinta/prieten(a),obligarea la cersetorie,42,782
+783,feminin,57,Romania,Romana,rural,Suceava,studii liceale,cunostinta/prieten(a),obligarea la cersetorie,42,783
+784,feminin,16,Romania,Romana,rural,Suceava,studii primare,cunostinta/prieten(a),obligarea la cersetorie,42,784
+785,feminin,16,Romania,Romana,rural,Satu-Mare,studii gimnaziale,cunostinta/prieten(a),obligarea la cersetorie,42,785
+786,feminin,14,Romania,Romana,rural,Suceava,studii gimnaziale,cunostinta/prieten(a),obligarea la cersetorie,42,786
+787,feminin,45,Romania,Romana,rural,Suceava,studii liceale,cunostinta/prieten(a),obligarea la cersetorie,42,787
+788,feminin,17,Romania,Romana,rural,Suceava,fara studii,cunostinta/prieten(a),obligarea la cersetorie,42,788
+789,feminin,5,Romania,Romana,rural,Suceava,fara studii,rude,obligarea la cersetorie,42,789
+790,feminin,17,Romania,Romana,rural,Botosani,studii gimnaziale,cunostinta/prieten(a),tentativa,42,790
+791,feminin,17,Austria,Romana,rural,Suceava,studii liceale,necunoscut,exploatare sexuala,42,791
+792,masculin,30,Danemarca,Romana,urban,Botosani,studii primare,cunostinta/prieten(a),alte situatii de exploatare,42,792
+793,feminin,21,Italia,Romana,rural,Dolj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,793
+794,feminin,17,Romania,Romana,urban,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,794
+795,feminin,18,Italia,Romana,rural,Dolj,studii gimnaziale,necunoscut,exploatare sexuala,42,795
+796,feminin,24,Italia,Romana,rural,Olt,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,796
+797,feminin,16,Romania,Romana,rural,Dolj,studii gimnaziale,necunoscut,exploatare sexuala,42,797
+798,feminin,17,Italia,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,798
+799,feminin,16,Italia,Romana,rural,Olt,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,799
+800,feminin,20,Italia,Romana,rural,Dolj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,800
+801,feminin,21,Italia,Romana,rural,Gorj,studii primare,cunostinta/prieten(a),exploatare sexuala,42,801
+802,feminin,15,Italia,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,802
+803,feminin,16,Italia,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,803
+804,feminin,17,Italia,Romana,rural,Dolj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,804
+805,feminin,20,Germania,Romana,urban,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,805
+806,feminin,22,Italia,Romana,rural,Dolj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,806
+807,feminin,17,Italia,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,807
+808,feminin,17,Italia,Romana,urban,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,808
+809,feminin,21,Italia,Romana,urban,Dolj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,809
+810,feminin,20,Italia,Romana,urban,Dolj,studii gimnaziale,necunoscut,exploatare sexuala,42,810
+811,feminin,18,Italia,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,811
+812,feminin,20,Italia,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,812
+813,feminin,17,Romania,Romana,rural,Galati,studii primare,cunostinta/prieten(a),exploatare sexuala,42,813
+814,feminin,18,Italia,Romana,rural,Bihor,studii gimnaziale,necunoscut,exploatare sexuala,42,814
+815,feminin,24,Italia,Romana,rural,Dolj,studii gimnaziale,necunoscut,exploatare sexuala,42,815
+816,feminin,19,Italia,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,816
+817,feminin,25,UK,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,817
+818,feminin,24,Franta,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,818
+819,feminin,20,Franta,Romana,rural,Dolj,studii primare,necunoscut,exploatare sexuala,42,819
+820,feminin,25,Franta,Romana,urban,Dolj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,820
+821,feminin,31,Germania,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,821
+822,feminin,22,Germania,Romana,rural,Dolj,,cunostinta/prieten(a),exploatare sexuala,42,822
+823,feminin,18,UK,Romana,rural,Dolj,studii primare,cunostinta/prieten(a),exploatare sexuala,42,823
+824,feminin,18,UK,Romana,urban,Dolj,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,824
+825,feminin,17,Romania,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,825
+826,feminin,16,Romania,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,826
+827,feminin,15,Romania,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,827
+828,feminin,20,Italia,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,828
+829,feminin,15,Romania,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,829
+830,feminin,18,Romania,Romana,rural,Dolj,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,830
+831,feminin,17,Italia,Romana,urban,Dolj,studii primare,cunostinta/prieten(a),obligarea la cersetorie,42,831
+832,feminin,17,Romania,Romana,urban,Gorj,studii liceale,cunostinta/prieten(a),tentativa,42,832
+833,feminin,17,Romania,Romana,rural,Dolj,studii gimnaziale,,alte situatii de exploatare,42,833
+834,feminin,13,Romania,Romana,urban,Constanta,fara studii,vecin,exploatare sexuala,42,834
+835,feminin,20,Romania,Romana,rural,Constanta,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,835
+836,feminin,16,Romania,Romana,rural,Constanta,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,836
+837,feminin,41,Turcia,Romana,urban,Constanta,fara studii,vecin,exploatare sexuala,42,837
+838,feminin,22,Grecia,Romana,urban,Galati,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,838
+839,feminin,33,Elvetia,Romana,rural,Constanta,studii superioare,cunostinta/prieten(a),exploatare sexuala,42,839
+840,feminin,22,Germania,Romana,rural,Constanta,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,840
+841,feminin,15,Romania,Romana,rural,Calarasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,841
+842,feminin,20,Olanda,Romana,rural,Constanta,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,842
+843,masculin,37,Bahamas,Romana,urban,Constanta,studii liceale,cunostinta/prieten(a),exploatare prin munca,42,843
+844,masculin,52,Italia,Romana,urban,Constanta,fara studii,necunoscut,obligarea la cersetorie,42,844
+845,masculin,26,Spania,Romana,urban,Constanta,fara studii,necunoscut,obligarea la cersetorie,42,845
+846,masculin,64,Spania,Romana,urban,Constanta,fara studii,cunostinta/prieten(a),obligarea la cersetorie,42,846
+847,masculin,15,Italia,Romana,urban,Constanta,fara studii,rude,obligarea la cersetorie,42,847
+848,feminin,14,Romania,Romana,rural,Constanta,studii gimnaziale,necunoscut,exploatare sexuala,42,848
+849,feminin,14,Romania,Romana,rural,Constanta,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,849
+850,feminin,16,Romania,Romana,rural,Dolj,studii gimnaziale,partener(a)/sot(ie),exploatare sexuala,42,850
+851,feminin,15,Romania,Romana,rural,Ilfov,studii primare,partener(a)/sot(ie),exploatare sexuala,42,851
+852,feminin,15,Romania,Romana,urban,Bucuresti,,necunoscut,exploatare sexuala,42,852
+853,feminin,18,Italia,Romana,urban,Bucuresti,studii liceale,vecin,exploatare sexuala,42,853
+854,feminin,21,Italia,Romana,rural,Ilfov,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,854
+855,feminin,16,Romania,Romana,rural,Calarasi,studii gimnaziale,vecin,exploatare sexuala,42,855
+856,feminin,19,Romania,Romana,urban,Bucuresti,studii gimnaziale,necunoscut,exploatare sexuala,42,856
+857,feminin,16,Romania,Romana,urban,Bucuresti,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,857
+858,feminin,20,Germania,Romana,urban,Bucuresti,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,858
+859,feminin,18,Franta,Romana,urban,Bucuresti,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,859
+860,feminin,13,Romania,Romana,rural,Calarasi,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,860
+861,feminin,20,Romania,Romana,urban,Bucuresti,studii gimnaziale,cunostinta/prieten(a),exploatare sexuala,42,861
+862,feminin,19,Italia,Romana,urban,Bucuresti,studii liceale,partener(a)/sot(ie),exploatare sexuala,42,862
+863,feminin,22,Austria,Romana,rural,Dambovita,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,863
+864,feminin,19,Austria,Romana,urban,Arges,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,864
+865,feminin,24,Germania,Romana,urban,Dolj,studii superioare,cunostinta/prieten(a),exploatare sexuala,42,865
+866,feminin,21,Italia,Romana,urban,Bacau,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,866
+867,masculin,39,Belgia,Romana,rural,Timis,studii liceale,necunoscut,exploatare prin munca,42,867
+868,masculin,40,Belgia,Romana,urban,Timis,studii liceale,necunoscut,exploatare prin munca,42,868
+869,masculin,44,Belgia,Romana,rural,Mehedinti,studii liceale,necunoscut,exploatare prin munca,42,869
+870,masculin,37,Belgia,Romana,rural,Timis,studii liceale,necunoscut,exploatare prin munca,42,870
+871,masculin,33,Belgia,Romana,rural,Mehedinti,studii liceale,necunoscut,exploatare prin munca,42,871
+872,masculin,38,Belgia,Romana,urban,Mehedinti,studii liceale,necunoscut,exploatare prin munca,42,872
+873,masculin,29,Belgia,Romana,urban,Mehedinti,studii profesionale,cunostinta/prieten(a),exploatare prin munca,42,873
+874,feminin,16,,Romana,rural,,studii gimnaziale,cunostinta/prieten(a),obligarea la cersetorie,42,874
+875,masculin,18,Grecia,Romana,rural,Mehedinti,studii gimnaziale,vecin,exploatare prin munca,42,875
+876,masculin,62,Grecia,Romana,rural,Mehedinti,studii liceale,necunoscut,exploatare prin munca,42,876
+877,masculin,28,Grecia,Romana,rural,Mehedinti,studii gimnaziale,cunostinta/prieten(a),exploatare prin munca,42,877
+878,feminin,39,Romania,Straina,urban,,studii liceale,cunostinta/prieten(a),exploatare sexuala,42,878
+879,feminin,24,Romania,Straina,rural,,studii gimnaziale,proxenet,exploatare sexuala,42,879
